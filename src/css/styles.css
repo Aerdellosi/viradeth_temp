@@ -1,3 +1,13 @@
 body {
   background-color: cornsilk;
 }
+
+.toblock {
+  height: 400px;
+  left: 500px;
+  position: fixed;
+}
+
+.hidden {
+  display: none;
+}
